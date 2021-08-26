@@ -17,10 +17,13 @@ class LoginActivity : AppCompatActivity() {
 
         Utils.blackIconsStatusBar(this, R.color.light_bg)
 
-        binding.signInButton.setOnClickListener {
+        binding.loginButton.setOnClickListener {
             startActivity(Intent(this, DashboardActivity::class.java))
             finish()
         }
+
+        binding.emailField.title.text = "Email"
+        binding.passwordField.title.text = "Password"
 
     }
 }

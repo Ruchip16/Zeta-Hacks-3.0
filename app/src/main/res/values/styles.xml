@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<!--  Base application theme-->
+    <!--  Base application theme-->
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
-    <!--Customise theme here-->
+        <!--Customise theme here-->
+        <item name="android:windowContentTransitions">true</item>
+    </style>
 
-            <item name="android:windowContentTransitions">true</item>
+    <style name="EditTextStyle" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/edittext_style</item>
+    </style>
 
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_style</item>
+        <item name="backgroundTint">@color/app_text</item>
+        <item name="textAllCaps">false</item>
     </style>
 
 </resources>
