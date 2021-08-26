@@ -2,7 +2,7 @@ plugins {
     id 'com.android.application'
     id 'kotlin-android'
 }
-
+apply plugin: 'kotlin-kapt'
 apply plugin: "androidx.navigation.safeargs.kotlin"
 
 android {
@@ -57,4 +57,16 @@ dependencies {
     implementation 'com.github.fornewid:neumorphism:0.3.0'
     implementation 'club.cred.android:synth:1.0.0'
 
-    }
+    //Moshi
+    implementation "com.squareup.moshi:moshi-kotlin:$moshi_version"
+    kapt("com.squareup.moshi:moshi-kotlin-codegen:$moshi_version")
+
+    //Networking
+    implementation "com.squareup.retrofit2:retrofit:$retrofit_version"
+    implementation "com.squareup.retrofit2:converter-gson:$retrofit_version"
+    implementation "com.squareup.retrofit2:converter-moshi:$retrofit_version"
+    implementation "com.squareup.okhttp3:okhttp:4.2.2"
+    implementation "com.squareup.okhttp3:logging-interceptor:4.2.1"
+
+
+}
