@@ -2,7 +2,7 @@ package com.zeta.zetafintech.models.account
 
 import com.squareup.moshi.Json
 
-data class Account(
+data class AccountDetails(
     @Json(name = "accessors")
     val accessors: List<Any>?,
     @Json(name = "accountProviderID")
