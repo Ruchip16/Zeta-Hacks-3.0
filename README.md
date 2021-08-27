@@ -1,6 +1,6 @@
 # ![GenMoney](https://user-images.githubusercontent.com/72685035/131101134-f78ab1af-f912-4170-bb85-61afe603e35a.png)
 
-# Our aim behind building GenMoney:
+## Our aim behind building GenMoney:
 
 The core cornerstone of financial literacy remains evergreen in modern times, but with a technological twist. Savings and financial management lessons are still important, but they require significantly more contact and regular touch than in the past.
 
@@ -15,7 +15,7 @@ We believe that teenage is the time when an individual gets a taste of the reali
 
 Zeta Hacks provides the ideal opportunity to make this aspiration a reality and take the first step toward the goal of educating 10 million financially literate teenagers.
 
-# Installation 
+## Installation 
 
 1. Fork The repo 
 
