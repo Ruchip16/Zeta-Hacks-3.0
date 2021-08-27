@@ -1,6 +1,8 @@
 # ![GenMoney](https://user-images.githubusercontent.com/72685035/131089732-906b1a73-95e7-49d6-87ad-72b982039dae.png)
 
+## Note: Source code is pushed in the master branch
 
+# Introduction
 The core cornerstone of financial literacy remains evergreen in modern times, but with a technological twist. Savings and financial management lessons are still important, but they require significantly more contact and regular touch than in the past.
 
 Based on this traditional mindset and ofcourse with the power of technology, we came up with the idea of **‘GenMoney', a smartphone application for kids to manage their finances, set savings goals, and understand the foundations of how money works, all just at the touch of a finger**
