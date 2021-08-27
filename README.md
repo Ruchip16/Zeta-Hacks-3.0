@@ -1,4 +1,6 @@
-# ![GenMoney (1)](https://user-images.githubusercontent.com/72685035/129370875-7ac21c9f-a8b0-4bf6-b32d-07c17d2e3552.jpg)
+# ![GenMoney](https://user-images.githubusercontent.com/72685035/131101134-f78ab1af-f912-4170-bb85-61afe603e35a.png)
+
+# Our aim behind building GenMoney:
 
 The core cornerstone of financial literacy remains evergreen in modern times, but with a technological twist. Savings and financial management lessons are still important, but they require significantly more contact and regular touch than in the past.
 
@@ -24,7 +26,10 @@ git clone https://github.com/your_username_/Zeta-Fintech.git
 3. Open the cloned repo in Android Studio 
 
 ## Sneak Peak into our project : 
-https://user-images.githubusercontent.com/72685035/129397409-a6cfc268-3944-408d-a709-d9474d887f15.mp4
+
+Our Application: https://user-images.githubusercontent.com/72685035/129397409-a6cfc268-3944-408d-a709-d9474d887f15.mp4
+
+Our Website: https://aarushi31.github.io/website/
 
 
 
