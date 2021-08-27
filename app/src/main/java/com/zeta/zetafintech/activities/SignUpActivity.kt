@@ -16,5 +16,7 @@ class SignUpActivity : AppCompatActivity() {
         setContentView(view)
 
         Utils.blackIconsStatusBar(this, R.color.light_bg)
+        val baseurl="https://agitated-euler-a0cf86.netlify.app/"
+
     }
 }
