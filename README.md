@@ -31,7 +31,7 @@ git clone https://github.com/your_username_/Zeta-Fintech.git
 
 Our Application: https://user-images.githubusercontent.com/72685035/129397409-a6cfc268-3944-408d-a709-d9474d887f15.mp4
 
-Our Website: https://aarushi31.github.io/website/
+Our Landing Page: https://aarushi31.github.io/website/
 
 
 
