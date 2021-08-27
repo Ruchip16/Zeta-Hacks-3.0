@@ -6,6 +6,8 @@ The core cornerstone of financial literacy remains evergreen in modern times, bu
 
 Based on this traditional mindset and ofcourse with the power of technology, we came up with the idea of **‘GenMoney', a smartphone application for kids to manage their finances, set savings goals, and understand the foundations of how money works, all just at the touch of a finger**
 
+## What is GenMoney?
+
 **GenMoney** is a mobile application designed by keeping in mind the gen-Z and the transformations in the aspects of money management along with the traditional 
 evergreen methodologies. We at GenMoney, aim to provide teenagers a real experience of how is it like to have a bank account with features like **Savings Account**, 
 **KYC Authentication**, **Interests/Rewards**, **Online Banking** (similar to UPI) and much more. 
